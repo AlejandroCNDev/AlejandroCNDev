@@ -1,16 +1,3 @@
-- 👋 Hi, I´m @AlejandroCNDev, I´m computer science engineer. (21 years old)
-- 👀 I’m interested in Cibersecurity, Blockchain, Web Development and much more.
-- 🌱 I’m currently learning Solidty.
-- 💞️ I'm looking for a job remotely.
-- 📫How to contact me... On my Linkedin account (https://www.linkedin.com/in/alejandro-castro-navarro/)
-
-
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ca38dc02-2717-49e7-9806-c04e8eeabf3a/deploy-status)](https://app.netlify.com/sites/alejandrocastronavarro/deploys)
-
-
-
-
 
 <h1 align="center">Hi 👋, I'm Alejandro Castro Navarro</h1>
 <h3 align="center">A passionate for information technology from Spain</h3>
@@ -48,6 +35,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejandrocndev&show_icons=true&locale=en" alt="alejandrocndev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alejandrocndev&" alt="alejandrocndev" /></p>
+
+</br>
+
+
+- 👋 Hi, I´m @AlejandroCNDev, I´m computer science engineer. (21 years old)
+- 👀 I’m interested in Cibersecurity, Blockchain, Web Development and much more.
+- 🌱 I’m currently learning Solidty.
+- 💞️ I'm looking for a job remotely.
+- 📫How to contact me... On my Linkedin account (https://www.linkedin.com/in/alejandro-castro-navarro/)
+
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ca38dc02-2717-49e7-9806-c04e8eeabf3a/deploy-status)](https://app.netlify.com/sites/alejandrocastronavarro/deploys)
 
 
 <!---
