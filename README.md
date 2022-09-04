@@ -3,20 +3,15 @@
 <h3 align="center">A passionate for information technology from Spain</h3>
 
 
-- 👋 Hi, I´m @AlejandroCNDev, I´m computer science engineer. (21 years old)
-- 👀 I’m interested in Cibersecurity, Blockchain, Web Development and much more.
-- 🌱 I’m currently learning Solidty.
-- 💞️ I'm looking for a job remotely.
-- 📫How to contact me... On my Linkedin account (https://www.linkedin.com/in/alejandro-castro-navarro/)
-
-
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ca38dc02-2717-49e7-9806-c04e8eeabf3a/deploy-status)](https://app.netlify.com/sites/alejandrocastronavarro/deploys)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrocndev&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrocndev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alejandrocndev" alt="alejandrocndev" /></a> </p>
+
+- 👋 Hi, I´m @AlejandroCNDev, I´m computer science engineer. (21 years old)
+
+- 👀 I’m interested in Cibersecurity, Blockchain, Web Development and much more.
+
+- 🌱 I’m currently learning Solidty.
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlejandroCNDev?tab=repositories](https://github.com/AlejandroCNDev?tab=repositories)
 
@@ -27,6 +22,9 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/alejandro-castro-navarro/](https://www.linkedin.com/in/alejandro-castro-navarro/)
 
 - ⚡ Fun fact **I think I am funny and outgoing.**
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ca38dc02-2717-49e7-9806-c04e8eeabf3a/deploy-status)](https://app.netlify.com/sites/alejandrocastronavarro/deploys)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
