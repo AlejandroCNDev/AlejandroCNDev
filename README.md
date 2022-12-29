@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alejandrocndev" alt="alejandrocndev" /></a> </p>
 
-- 👋 Hi, I´m @AlejandroCNDev, I´m computer science engineer, but I´m currently studying a Master´s Degree of Cibersecurity and Ciberintelligence. (22 years old)
+- 👋 Hi, I´m @AlejandroCNDev, I´m computer science engineer, but I´m currently studying a Master´s Degree of Cibersecurity and Ciberintelligence, in UPV (Valencia, Spain). (22 years old)
 
 - 👀 I’m interested in Cibersecurity, Blockchain, Web Development and much more.
 
